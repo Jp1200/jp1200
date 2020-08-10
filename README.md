@@ -1,4 +1,4 @@
-### Jack Parker[website] 👋
+### Jack Parker [website] 👋
 
 - 🔭 I’m currently on the Job Search[website]!
 - 🌱 Currently learning about Nueral Networks with Python
