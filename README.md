@@ -1,6 +1,6 @@
 ### Jack Parker [website] 👋
 
-- 🔭 I’m currently on the Job Search[website]!
+- 🔭 I’m currently on the Job Search [website]!
 - 🌱 Currently learning about Nueral Networks with Python
 - ⚡ Full Stack Web Dev
 
@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Jacks Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jp1200r&show_icons=true&hide_border=true" />
+<img align="left" alt="Jacks Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jp1200&show_icons=true&hide_border=true" />
 
 [website]: https://jackparker.dev
 [instagram]: https://instagram.com/IMjackparker
