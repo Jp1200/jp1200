@@ -1,6 +1,6 @@
 ### Jack Parker[website] 👋
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently on the Job Search[website]!
 - 🌱 Currently learning about Nueral Networks with Python
 - ⚡ Full Stack Web Dev
 
