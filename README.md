@@ -1,6 +1,7 @@
-### Jack Parker [website] 👋
+### Jack Parker 👋
 
 - 🔭 I’m currently on the Job Search [website]!
+- 🎮 Working on multiplayer online game with Unity and NodeJs
 - 🌱 Currently learning about Nueral Networks with Python
 - ⚡ Full Stack Web Dev
 
