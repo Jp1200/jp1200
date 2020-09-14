@@ -40,7 +40,7 @@
 
 <img align="left" alt="Jacks Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jp1200&show_icons=true&hide_border=true" />
 
-[website]: https://jackparker.dev
+[website]: https://www.jackparker.dev
 [instagram]: https://instagram.com/IMjackparker
 [linkedin]: https://linkedin.com/in/jack-parker-473523183/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
