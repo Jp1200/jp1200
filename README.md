@@ -1,7 +1,7 @@
 ### Jack Parker 👋
 
-- 🔭 I’m currently on the Job Search [website]!
-- 🎮 Working on multiplayer online game with Unity and NodeJs
+- Employed at General Motors as a Software Engineer
+- 🎮 Working with a team of Game devs in my spare time to produce a new form of VR in Unity
 - 🌱 Currently learning about Nueral Networks with Python
 - ⚡ Full Stack Web Dev
 
