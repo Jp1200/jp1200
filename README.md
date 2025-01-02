@@ -1,8 +1,8 @@
 ### Jack Parker 👋
 
-- Employed at General Motors as a Software Engineer
-- 🎮 Working with a team of Game devs in my spare time to produce a new form of VR in Unity
-- 🌱 Currently learning about Nueral Networks with Python
+- Previously employed at General Motors as a Software Engineer
+- 🎮 Working to create my own gaem using unreal engine
+- 🌱 Always learning, always developing
 - ⚡ Full Stack Web Dev
 
 ### Connect with me:
