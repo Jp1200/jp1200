@@ -1,7 +1,6 @@
 ### Jack Parker 👋
 
 - Previously employed at General Motors as a Software Engineer
-- 🎮 Working to create my own gaem using unreal engine
 - 🌱 Always learning, always developing
 - ⚡ Full Stack Web Dev
 
