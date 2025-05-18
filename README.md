@@ -3,12 +3,8 @@
 - Previously employed at General Motors as a Software Engineer
 - 🌱 Always learning, always developing
 - ⚡ Full Stack Web Dev
-
-### Connect with me:
-
-[<img align="left" alt="jp12" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jp12 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jp12 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Website: [https://jackparker.dev][website]
+- Linkedin: [Link][linkedin]
 
 <br />
 
@@ -37,7 +33,7 @@
 
 ---
 
-<img align="left" alt="Jacks Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jp1200&show_icons=true&hide_border=true" />
+
 
 [website]: https://www.jackparker.dev
 [instagram]: https://instagram.com/IMjackparker
